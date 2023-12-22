@@ -72,3 +72,4 @@ The function starts by setting the counts of horizontal/vertical and diagonal ne
         If the neighbor is diagonal (neither dx nor dy is 0), it increments the d_neighbors count for an active neighbor.
 
     Return Values: The function returns two counts: h_v_neighbors and d_neighbors, representing the number of active neighbors in each category for the cell at (x, y).
+![Path_Auto_2for_Cantor_Bakers_Map](https://github.com/SquibbThompson/Orientation-Auto-Lab/assets/124839124/5ae0252c-79f3-4771-83ed-2ae9465c0c83)
